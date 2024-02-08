@@ -1,7 +1,7 @@
 #!/bin/bash
 #|---/ /+---------------------------+---/ /|#
 #|--/ /-| Script to configure shell |--/ /-|#
-#|-/ /--| Prasanth Rangan           |-/ /--|#
+#|-/ /--| Willis Ivali          |-/ /--|#
 #|/ /---+---------------------------+/ /---|#
 
 source global_fn.sh

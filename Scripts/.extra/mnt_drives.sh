@@ -1,7 +1,7 @@
 #!/bin/bash
 #|---/ /+---------------------------+---/ /|#
 #|--/ /-| Script to mount my drives |--/ /-|#
-#|-/ /--| Prasanth Rangan           |-/ /--|#
+#|-/ /--| Willis Ivali          |-/ /--|#
 #|/ /---+---------------------------+/ /---|#
 
 # function to check device parameters

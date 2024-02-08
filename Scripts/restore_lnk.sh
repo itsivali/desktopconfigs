@@ -1,7 +1,7 @@
 #!/bin/bash
 #|---/ /+---------------------------------+---/ /|#
 #|--/ /-| Script to fix slinks in .config |--/ /-|#
-#|-/ /--| Prasanth Rangan                 |-/ /--|#
+#|-/ /--| Willis Ivali                |-/ /--|#
 #|/ /---+---------------------------------+/ /---|#
 
 source global_fn.sh

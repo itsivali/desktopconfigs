@@ -1,7 +1,7 @@
 #!/bin/bash
 #|---/ /+----------------------------------+---/ /|#
 #|--/ /-| Script to extract fonts & themes |--/ /-|#
-#|-/ /--| Prasanth Rangan                  |-/ /--|#
+#|-/ /--| Willis Ivali                 |-/ /--|#
 #|/ /---+----------------------------------+/ /---|#
 
 source global_fn.sh

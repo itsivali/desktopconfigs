@@ -1,7 +1,7 @@
 #!/bin/bash
 #|---/ /+--------------------------------------+---/ /|#
 #|--/ /-| Script to compare git and local dots |--/ /-|#
-#|-/ /--| Prasanth Rangan                      |-/ /--|#
+#|-/ /--| Willis Ivali                     |-/ /--|#
 #|/ /---+--------------------------------------+/ /---|#
 
 source global_fn.sh

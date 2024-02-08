@@ -1,7 +1,7 @@
 #!/bin/bash
 #|---/ /+-----------------------------------+---/ /|#
 #|--/ /-| Script to install flatpaks (user) |--/ /-|#
-#|-/ /--| Prasanth Rangan                   |-/ /--|#
+#|-/ /--| Willis Ivali                  |-/ /--|#
 #|/ /---+-----------------------------------+/ /---|#
 
 BaseDir=`dirname "$(realpath "$0")"`

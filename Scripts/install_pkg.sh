@@ -1,7 +1,7 @@
 #!/bin/bash
 #|---/ /+----------------------------------------+---/ /|#
 #|--/ /-| Script to install pkgs from input list |--/ /-|#
-#|-/ /--| Prasanth Rangan                        |-/ /--|#
+#|-/ /--| Willis Ivali                       |-/ /--|#
 #|/ /---+----------------------------------------+/ /---|#
 
 source global_fn.sh

@@ -1,7 +1,7 @@
 #!/bin/bash
 #|---/ /+-----------------------------+---/ /|#
 #|--/ /-| Script to configure my apps |--/ /-|#
-#|-/ /--| Prasanth Rangan             |-/ /--|#
+#|-/ /--| Willis Ivali            |-/ /--|#
 #|/ /---+-----------------------------+/ /---|#
 
 ScrDir=`dirname "$(dirname "$(realpath "$0")")"`

@@ -1,7 +1,7 @@
 #!/bin/bash
 #|---/ /+-----------------------------------+---/ /|#
 #|--/ /-| Script to install aur helper, yay |--/ /-|#
-#|-/ /--| Prasanth Rangan                   |-/ /--|#
+#|-/ /--| Willis Ivali                  |-/ /--|#
 #|/ /---+-----------------------------------+/ /---|#
 
 source global_fn.sh

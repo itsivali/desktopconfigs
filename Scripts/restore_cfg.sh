@@ -1,7 +1,7 @@
 #!/bin/bash
 #|---/ /+------------------------------------+---/ /|#
 #|--/ /-| Script to restore personal configs |--/ /-|#
-#|-/ /--| Prasanth Rangan                    |-/ /--|#
+#|-/ /--| Willis Ivali                   |-/ /--|#
 #|/ /---+------------------------------------+/ /---|#
 
 source global_fn.sh
